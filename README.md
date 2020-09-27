@@ -1,1 +1,2 @@
 # CNN-Dog-Breed-Classifier
+In this project, a CNN system pipeline to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. This is the Second project of Deep Learning Nanodegree introduced by Udacity. https://www.udacity.com/course/deep-learning-nanodegree--nd101
